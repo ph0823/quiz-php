@@ -1,5 +1,5 @@
 <?php
-include 'read_excel.php';
+include '../read_excel.php';
 $questions = loadQuestions('questions.xlsx');
 ?>
 
